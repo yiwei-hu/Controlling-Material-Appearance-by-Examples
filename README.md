@@ -22,12 +22,13 @@ We include some examples in `./sample`
 ## Citation
 ```
 @article {hu2022control,
-	title = {Controlling Material Appearance by Examples},
-	author = {Hu, Yiwei and Hašan, Miloš and Guerrero, Paul and Rushmeier, Holly and Deschaintre, Valentin},
-	journal = {Computer Graphics Forum (Proc. of Eurographics Symposium on Rendering 2022)},
-	volume = {41},
-	number = {4},
-	year = {2022},
+  journal = {Computer Graphics Forum},
+  title = {{Controlling Material Appearance by Examples}},
+  author = {Hu, Yiwei and Hašan, Miloš and Guerrero, Paul and Rushmeier, Holly and Deschaintre, Valentin},
+  year = {2022},
+  publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+  ISSN = {1467-8659},
+  DOI = {10.1111/cgf.14591}
 }
 ```
 
