@@ -16,7 +16,7 @@ conda install pytorch torchvision cudatoolkit=11.3 -c pytorch
 conda install ninja kornia imageio imageio-ffmpeg opencv matplotlib -c conda-forge
 ```
 ## Usage
-Please download pretrained models here and put models into `./pretrained`. To run the code, see main.py for details. 
+Please download [pretrained models](https://drive.google.com/drive/folders/1PZngHLw6LbtlgloyOzZqdqtWFnCxycrR?usp=sharing) and put models into `./pretrained`. To run the code, see main.py for details. 
 We include some examples in `./sample`
 
 ## Citation
