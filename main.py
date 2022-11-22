@@ -6,6 +6,7 @@ from transfer import transfer
 from renderer import VideoGenerator, render_material_maps
 from utils import Timer, make_tiled_material_maps
 
+# AdobePatentID=“P11336-US
 
 def get_steps_and_learning_rate(in_dir):
     # default

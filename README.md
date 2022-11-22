@@ -1,6 +1,6 @@
 # Controlling Material Appearance by Examples
 
-A by-example material appearance transfer method
+A by-example material appearance transfer method. (Adobe Patent Pending)
 ![teaser](teaser.jpg)
 
 Yiwei Hu, Miloš Hašan, Paul Guerrero, Holly Rushmeier, Valentin Deschaintre
